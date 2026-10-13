@@ -41,8 +41,8 @@
     {
       "identifier": "http:default",
       "allow": [
-        { "url": "https://api.opensunsama.com/**" },
-        { "url": "wss://api.opensunsama.com/**" }
+        { "url": "http://157.90.122.6:3001/**" },
+        { "url": "ws://157.90.122.6:3001/**" }
       ]
     }
   ]
